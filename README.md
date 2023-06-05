@@ -17,7 +17,7 @@ React (JS, HTML, CSS), CMS (Wordpress, Shopify), UX Design (Figma, Adobe Creativ
 ## 🧠 I'm currently learning/building...
 Typescript + Next.js Project
 
-C# and Linux for Arduino & Raspberry Pi Robot Cars
+C# and Linux for Arduino & Raspberry Pi Robots
 
 
 
