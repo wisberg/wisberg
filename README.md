@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**wisberg/wisberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Duff! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm a Front-End Software Engineer and UX Designer with 4+ years experience in web development & design. I've worked with many different frameworks, languages and software products while freelancing and starting my own web development business. 
+## 🛠 Skills
+React (JS, HTML, CSS), CMS (Wordpress, Shopify), UX Design (Figma, Adobe Creative Suite), GraphQL, MongoDB, Node.js
+
+
+## ⚡️ Projects
+[BankNote](https://github.com/wisberg/banknote) - BankNote is a react web application for all things currency, featuring a currency converter & currency news section.
+
+[Voyager](https://github.com/wisberg/voyager) - Voyager is a search engine built with React and the uSearch API. Search the web, news and images.
+
+
+## 🧠 I'm currently learning/building...
+Typescript + Next.js Project
+
+C# and Linux for Arduino & Raspberry Pi Robot Cars
+
+
+
+
+
+## 📫 Get in touch!
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=react-fi&logoColor=white)](https://duffisberg.com/)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duffisberg)
+[![email](https://img.shields.io/badge/Email-96afab?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:duffisberg@gmail.com)
