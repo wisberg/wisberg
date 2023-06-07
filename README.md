@@ -5,7 +5,7 @@
 
 I'm a Front-End Software Engineer and UX Designer with 4+ years experience in web development & design. I've worked with many different frameworks, languages and software products while freelancing and starting my own web development business. 
 ## 🛠 Skills
-React (JS, HTML, CSS), CMS (Wordpress, Shopify), UX Design (Figma, Adobe Creative Suite), GraphQL, MongoDB, Node.js
+React (JS, HTML, CSS), CMS (Wordpress, Shopify), UX Design (Figma, Adobe Creative Suite), GraphQL, MongoDB, Node.js, C++
 
 
 ## ⚡️ Projects
