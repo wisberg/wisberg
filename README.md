@@ -3,7 +3,7 @@
 
 
 
-I'm a Front-End Software Engineer with 4+ years experience in software development and a background in UX Design. I've worked with many different frameworks, languages and products while freelancing and starting my own web development business. 
+I'm a Front-End Software Engineer with 4+ years experience in software development and UX Design. I've worked with many different frameworks, languages and products while freelancing and starting my own web development business. 
 ## 🛠 Skills
 React (JS, HTML, CSS, Next.js, TS), CMS (Wordpress, Shopify), UX Design (Figma, Adobe Creative Suite), GraphQL, MongoDB, Node.js, C++, Python
 
