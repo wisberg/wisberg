@@ -15,6 +15,8 @@ React (JS, HTML, CSS, Next.js, TS), CMS (Wordpress, Shopify), UX Design (Figma, 
 
 
 ## 🧠 I'm currently learning/building...
+AI Chess Bot using Javascript
+
 Typescript + Next.js Project
 
 C# and Linux for Arduino & Raspberry Pi Robots
