@@ -4,7 +4,7 @@
 
 
 Developer and Designer with 7+ years professional experience. I've worked with many different frameworks, languages and products while freelancing and starting my own web development & design business. 
-## 🛠 Skills
+## Skills
 React (JS, HTML, CSS, Next.js, TS), CMS (Wordpress, Shopify), UX Design (Figma, Adobe Creative Suite), GraphQL, MongoDB, Node.js, C++, Python
 
 
